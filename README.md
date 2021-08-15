@@ -1,4 +1,4 @@
-### Junior Web Developer (지망생)
+### Junior Web Developer (...wannabe)
 
 
 ### Tech Stack
