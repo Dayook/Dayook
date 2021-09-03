@@ -1,4 +1,3 @@
-### Junior Web Developer (...wannabe)
 
 
 ### Tech Stack
