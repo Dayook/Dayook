@@ -1,9 +1,11 @@
-### Junior Web Developer (...wannabe)
+### Junior Developer
 
 ### Tech Stack
 
-![javaScript](https://img.shields.io/badge/-JavaScript-F4E914?logo=javaScript&logoColor=black&style=flat)
-![react](https://img.shields.io/badge/-React-8EF2F8?logo=React&logoColor=black&style=flat) 
-![java](https://img.shields.io/badge/-Java-F17A17?logo=java&logoColor=white&style=flat)
-![spring](https://img.shields.io/badge/-Spring-28C250?logo=Spring&logoColor=white&style=flat)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F4E914?logo=javaScript&logoColor=black&style=flat)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=TypeScript&logoColor=black&style=flat)
+![React](https://img.shields.io/badge/-React-8EF2F8?logo=React&logoColor=black&style=flat)
+![GrapqhQL](https://img.shields.io/badge/-GrapqhQL-e535AB?logo=GrapqhQl&logoColor=black&style=flat)
+![Redis](https://img.shields.io/badge/-Redis-d82c20?logo=Redis&logoColor=black&style=flat)
+![Node.js](https://img.shields.io/badge/-Node.js-68a063?logo=Node.js&logoColor=black&style=flat) 
 
